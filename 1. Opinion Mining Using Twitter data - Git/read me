@@ -1,0 +1,21 @@
+Opinion Mining using Twitter Data in Python 
+## Please note: Need your twitter API access to get the following: consumer_key,consumer_secret,access_token & access_token_secret
+
+
+### Objective : Understand the sentiment difference between competiting brands using real-time Twitter data through word clouds and graphical visualizations
+
+### Packages used : Tweepy, text blob,wordcloud and matplotlib
+    
+### Steps followed :
+
+1. Import all required packages and supporting packages
+
+2. Create a function for :                     
+    a. fetching all tweets and analysing their sentiment through textblob and present frequent words in word clouds                     
+    b. finding the best and worst tweet                                                                                        
+    c. plot the sentiment 
+    
+3. Call all functions by in a super function giving "company name and rival company name"
+
+4. Dashboard for example of "Walmart" vs "Kroger"
+
