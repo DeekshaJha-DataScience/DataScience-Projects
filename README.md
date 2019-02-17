@@ -16,3 +16,5 @@ List of projects & Description
     - Built a pass/fail model based on student demographics and survey data (freelance work hence data is confidential)
     - Follow the steps for any predicitve modelling project
     - Jupyter Notebook
+5. Tableau - Girls + Code
+    - My First Tableau submission for Social Viz for Good for Girls+Data Non-profit!
