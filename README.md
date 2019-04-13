@@ -14,7 +14,13 @@ List of projects & Description
     - Python script ; Need Loggly account
 4. Predicitve Modelling Structure
     - Built a pass/fail model based on student demographics and survey data (freelance work hence data is confidential)
-    - Follow the steps for any predicitve modelling project
+    - Follow the steps for any predictive modelling project
     - Jupyter Notebook
 5. Tableau - Girls + Code
     - My First Tableau submission for Social Viz for Good for Girls+Data Non-profit!
+
+6. Kaggle - Rossmann Stores
+    - My First Kaggle submission for predicting daily sales for Rossmann Store in R & Python
+    - Link : https://www.kaggle.com/c/rossmann-store-sales/overview
+    
+
